@@ -1,0 +1,3 @@
+[submodule "Data-Streaming"]
+	path = Data-Streaming
+	url = https://github.com/resilmesh2/Data-Streaming.git
