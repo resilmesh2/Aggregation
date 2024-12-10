@@ -4,3 +4,6 @@
 [submodule "Data-Normalization"]
 	path = Data-Normalization
 	url = https://github.com/resilmesh2/Data-Normalization.git
+[submodule "Data-Transformation"]
+	path = Data-Transformation
+	url = https://github.com/resilmesh2/Data-Transformation.git
