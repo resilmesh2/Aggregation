@@ -1,9 +1,9 @@
-[submodule "Data-Streaming"]
-	path = Data-Streaming
-	url = https://github.com/resilmesh2/Data-Streaming.git
-[submodule "Data-Normalization"]
-	path = Data-Normalization
-	url = https://github.com/resilmesh2/Data-Normalization.git
-[submodule "Data-Transformation"]
-	path = Data-Transformation
-	url = https://github.com/resilmesh2/Data-Transformation.git
+[submodule "Vector"]
+	path = Vector
+	url = https://github.com/resilmesh2/Vector
+[submodule "NATS"]
+	path = NATS
+	url = https://github.com/resilmesh2/NATS
+[submodule "Enrichment"]
+	path = Enrichment
+	url = https://github.com/resilmesh2/Enrichment
