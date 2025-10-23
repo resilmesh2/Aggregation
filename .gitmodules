@@ -1,0 +1,9 @@
+[submodule "Vector"]
+	path = Vector
+	url = https://github.com/resilmesh2/Vector
+[submodule "NATS"]
+	path = NATS
+	url = https://github.com/resilmesh2/NATS
+[submodule "Enrichment"]
+	path = Enrichment
+	url = https://github.com/resilmesh2/Enrichment
