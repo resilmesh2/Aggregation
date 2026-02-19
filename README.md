@@ -59,16 +59,16 @@ To avoid dependencies and issues between components during the deployment, it is
 http_proxy=http://<USER>:<PASSWORD>@<PROXY_IP>:<PROXY_PORT>
 https_proxy=http://<USER>:<PASSWORD>@<PROXY_IP>:<PROXY_PORT>
 ```
-3. There are some config files we need, follow instructions at [README.md](../Threat-Awareness/wazuh-docker/README.md)
+3. There are some config files we need, follow instructions at [README.md](../Threat-Awareness/wazuh-docker/)
 4. Follow the README's in the other containers to set them up:
-   - [Vector](./Vector/README.md)
-   - [MISP](./MISP_client/README.md)
-   - [Silent Push - Enrichment](./Enrichment/README.md)
+   - [Vector](./Vector/)
+   - [MISP](./MISP_client/)
+   - [Silent Push - Enrichment](./Enrichment/)
 
 ## Datasets
 The datasets included in this repository are for demonstration purpose only, the real ones used in production need to be copied into Vector/datasets folder, replacing the sample ones.
 
-If you need to add more datasets, check [Vector](Aggregation/Vector/README.md) for instructions.
+If you need to add more datasets, check [Vector](./Vector/) for instructions.
 
 
 ## Docker convention
