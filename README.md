@@ -68,7 +68,7 @@ https_proxy=http://<USER>:<PASSWORD>@<PROXY_IP>:<PROXY_PORT>
 ## Datasets
 The datasets included in this repository are for demonstration purpose only, the real ones used in production need to be copied into Vector/datasets folder, replacing the sample ones.
 
-If you need to add more datasets, check [Vector](/resilmesh2/Vector) for instructions.
+If you need to add more datasets, check [Vector](https://github.com/resilmesh2/Vector) for instructions.
 
 
 ## Docker convention
